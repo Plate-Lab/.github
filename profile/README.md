@@ -1,6 +1,6 @@
 # 🌟 Plate Lab GitHub Repository
 
-Welcome to the Plate Lab GitHub repository! Here, you will find code, data, and documentation related to our research. We are part of the Departments of Chemistry and Biological Sciences at Vanderbilt University.
+Welcome to the Plate Lab GitHub repository! Here, you will find code, data, and documentation related to our research. We are part of the Departments of Chemistry and Biological Sciences at Vanderbilt University in Nashville, Tennessee.
 
 For contact info, please refer to our [website](https://www.plate-research.org/contact.html).
 
