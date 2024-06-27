@@ -10,7 +10,7 @@ The focus of the group is to define the dynamics and the coordination of protein
 
 Publications: [Link](https://www.plate-research.org/publications.html)
 
-![Research Lab Poster](Plate_L_Lab_Poster_2024-02_flat.pdf)
+![Research Lab Poster](Plate_L_Lab_Poster_2024-02_flat.jpg)
 
 
 <!-- ## 📂 Repositories
