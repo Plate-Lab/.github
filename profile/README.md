@@ -4,7 +4,7 @@ Welcome to the Plate Lab GitHub repository! Here, you will find code, data, and 
 
 For contact info, please refer to our [website](https://www.plate-research.org/contact.html).
 
-## 🏢 About Us
+## 🏢 About Our Research
 
 The focus of the group is to define the dynamics and the coordination of protein interaction networks in diverse cellular processes. Towards this goal, we develop new mass spectrometry-based proteomics and chemical biology tools. Dynamic protein-protein interactions govern many molecular, cellular, and organismal processes and altered interactions are intricately linked to disease states. For instance, in cancer disparate protein-protein interactions occur in signal transduction pathways, protein folding diseases arise from aberrant engagement of protein folding pathways, and pathogenic infections take advantage of host-pathogen protein interactions that co-opt cellular pathways. Our goal is to understand how protein interactions in the pertinent biological processes have to be properly timed and coordinated. Defining the pathological consequences of mistimed and uncoordinated protein interactions on disease states will then guide the identification of new therapeutic strategies.
 
